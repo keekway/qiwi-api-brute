@@ -4,7 +4,9 @@ Its just fun code for checking qiwi api token brute. Working with proxy and thre
 
 # Building
 https://github.com/keekway/qiwi-api-brute.git
+
 cd qiwi-api-brute
+
 make
 
 # Using
