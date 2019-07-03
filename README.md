@@ -13,4 +13,5 @@ make
 ./main -proxy=http://127.0.0.1:8123 -threads=12
 
 -proxy [can be http, socks, tor, polipo, privoxy]
+
 -threads [normal more then 12]
